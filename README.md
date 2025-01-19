@@ -22,8 +22,4 @@ Isso criará uma cópia local do repositório em seu ambiente.
 
 Para abrir o código abrir pelo IDE ou pelo CMD usando o comando UrnaEletronicaJava.java
 
-```bash
-cd nome-do-repositorio
-npm install
-```
 
