@@ -1,6 +1,6 @@
-# {Nome do seu Projeto}
+# Urna Eletronica Java
 
-Este repositório contém um projeto desenvolvido utilizando Node.js, React e TypeScript. Neste arquivo README, você encontrará um guia passo a passo para abrir o projeto em seu ambiente local.
+Este repositório contém um projeto desenvolvido utilizando Java. Neste arquivo README, você encontrará um guia passo a passo para abrir o projeto em seu ambiente local.
 
 ## Pré-requisitos
 
